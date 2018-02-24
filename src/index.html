@@ -1,0 +1,24 @@
+<html lang="en">
+<head>
+  <title>Ethersee</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="white" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <meta content="telephone=no" name="format-detection" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta charset="utf-8" />
+  <script type="text/javascript" src="http://raw.githubusercontent.com/ethereum/web3.js/0.19.0/dist/web3.min.js"></script>
+  <script type="text/javascript">
+  // if (typeof web3 !== 'undefined') {
+  //   web3 = new Web3(web3.currentProvider);
+  // } else {
+    web3 = new Web3(new Web3.providers.HttpProvider("https://mainnet.infura.io/2rSJVyyT5psEhkoiggOV"));
+  // }
+  </script>
+</head>
+<body>
+  <div id="root"></div>
+</body>
+</html>
