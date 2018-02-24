@@ -3,7 +3,7 @@
 Simple Ethereum Explorer build on web3 and infura using React.
 
 ## Run
-Clone the project then install depedencies.
+Clone the project then install dependencies.
 ``` shell
 npm install
 npm run dev
