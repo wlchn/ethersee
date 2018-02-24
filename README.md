@@ -10,8 +10,11 @@ npm run dev
 ```
 Then you can access it at localhost:3000
 ## More
+Last block number.
 <img src="./ethersee1.png">
+Scan a ETH address.
 <img src="./ethersee2.png">
+Scan a Transaction.
 <img src="./ethersee3.png">
 
 ## License
