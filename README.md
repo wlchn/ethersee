@@ -8,7 +8,7 @@ Clone the project then install depedencies.
 npm install
 npm run dev
 ```
-Then you can access it at localhost:3000
+Then you can access it at localhost:9000
 ## More
 Last block number.
 <img src="./ethersee1.png">
