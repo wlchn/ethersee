@@ -1,6 +1,6 @@
 # Ethersee
 
-Simple Ethereum Explorer build on web3 and infura using React. You can access at <a href="https://ethersee.wanglei.io/" target="_blank">Ethersee</a>
+Simple Ethereum Explorer build on web3 and infura using React. Demo is here: <a href="https://ethersee.wanglei.io/" target="_blank">Ethersee</a>
 
 ## Run
 Clone the project then install dependencies.
