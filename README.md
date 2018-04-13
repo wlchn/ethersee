@@ -16,6 +16,3 @@ Scan a ETH address.
 <p align="center"><img src="./ethersee2.jpeg" width="848px"></p>
 Scan a Transaction.
 <p align="center"><img src="./ethersee3.jpeg" width="848px"></p>
-
-## License
-MIT
