@@ -11,7 +11,7 @@ npm run dev
 Then you can access it at localhost:9000
 ## More
 Last block number.
-<div style="border: 16px solid #eff0f1"><img src="./ethersee1.jpeg"></div>
+<div style="padding: 16px;"><img src="./ethersee1.jpeg"></div>
 Scan a ETH address.
 <img src="./ethersee2.jpeg">
 Scan a Transaction.
